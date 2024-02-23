@@ -1,0 +1,18 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+}
+
+.select {
+  width: 25rem;
+}
+
+.error {
+  font-size: 1.4rem;
+  color: red;
+}
+
+.btn {
+  width: fit-content;
+}
