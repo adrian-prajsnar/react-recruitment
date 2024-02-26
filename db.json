@@ -1,0 +1,9 @@
+{
+  "fruits": [
+    { "id": 0, "name": "Jabłka", "checked": false, "price": 0 },
+    { "id": 1, "name": "Banany", "checked": false, "price": 0 },
+    { "id": 2, "name": "Pomarańcze", "checked": false, "price": 0 },
+    { "id": 3, "name": "Wiśnie", "checked": false, "price": 0 },
+    { "id": 4, "name": "Winogrona", "checked": false, "price": 0 }
+  ]
+}
